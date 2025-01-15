@@ -29,7 +29,7 @@ const LandingPage = () => {
             QuickValid.AI
           </div>
           <a
-      href="https://drive.google.com/file/d/10zL7r8nB1vwH6a-0Ptzpui6DtWnLaoqB/view?usp=sharing"
+      href="https://drive.google.com/file/d/1weSMe50ozU7R-I8btpcPCpgSFRPzlB_t/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
       className="nav-cta"
@@ -112,7 +112,7 @@ const LandingPage = () => {
     <h2>Ready to Validate Your Vision?</h2>
     <p>Join innovative founders using AI to validate their startup ideas</p>
     <a
-      href="https://drive.google.com/file/d/10zL7r8nB1vwH6a-0Ptzpui6DtWnLaoqB/view?usp=sharing"
+      href="https://drive.google.com/file/d/1weSMe50ozU7R-I8btpcPCpgSFRPzlB_t/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
       className="cta-button"

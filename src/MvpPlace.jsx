@@ -106,6 +106,15 @@ const LandingPage = () => {
         </div>
       </section>
 
+      {/* Product Hunt Badge */}
+      <div className="product-hunt-badge">
+        <a href="https://www.producthunt.com/posts/quickvalid-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-quickvalid&#0045;ai" target="_blank">
+          <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=788545&theme=light&t=1737028014155" alt="QuickValid&#0046;AI - Get&#0032;Instant&#0032;validations&#0032;and&#0032;analysis&#0032;for&#0032;your&#0032;pitch&#0046;&#0046;&#0046; | Product Hunt" style={{ width: '250px', height: '54px' }} width="250" height="54" />
+        </a>
+      </div>
+
+      
+
       {/* CTA Section */}
       <section className="cta" ref={ctaRef}>
   <div className="container">
